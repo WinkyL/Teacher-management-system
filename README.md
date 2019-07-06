@@ -1,2 +1,10 @@
-# Teacher-management-system
-A system based on Django and HTML5
+# Teacher's Information management system
+
+## A Django & HTML Project
+
+### Main Function
+
+- Administrators System & Ordinary teacher system
+- Login & Logout 
+- Search & Check
+- Revise & Evaluate
